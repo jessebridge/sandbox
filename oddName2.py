@@ -13,9 +13,6 @@ def get_name():
         name = input("please enter your name")
     return name
 
-
-def get_name():
-    main()
+main()
 
 
-get_name()
