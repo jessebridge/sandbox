@@ -12,4 +12,10 @@ def get_name():
         print("error")
         name = input("please enter your name")
     return name
-main()
+
+
+def get_name():
+    main()
+
+
+get_name()
